@@ -1,0 +1,4 @@
+Esta carpeta contien archivos y documentos de gran tamaño que no se pueden subir a Github-:
+https://drive.google.com/drive/folders/1J-3f8AT5DjpBjQilVoX_pUGdIOazCoY4?usp=drive_link
+
+Se muestra el análisis de sentimientos en base a dos temas establecidos información
